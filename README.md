@@ -1,0 +1,2 @@
+#Segundo proyeto acerca de la primera Entrega con Bonus, creando el archivo web en un servidor.
+#Para ejecutar digite en consola de comandos: node principal inscribir -i=1 -n=Jarlin -c=123 y ver escribiendo localhost:8080
